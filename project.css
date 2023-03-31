@@ -1,0 +1,120 @@
+
+.navbar {
+position: absolute;
+z-index: 10;
+width: 100%;
+}
+.carousel-item {
+height: 100vh;
+background: no-repeat center center scroll;
+-webkit-background-size: cover;
+-moz-background-size: cover ;
+-moz-background-size: cover ;
+}
+.carousel-item h1 {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+text-align: center;
+margin: 0;
+padding: 0;
+font-size: 4rem;
+line-height: 1.2;
+text-shadow: 2px 2px #000;
+}
+
+#edu{
+font-size: 1.9em;
+font-family: arial; 
+font-weight:bold;
+
+}
+#edu1{
+color: white;
+
+}
+.edu1{
+    color: white;
+}
+.icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    opacity: 1;
+}
+
+.fa-brands {
+    color: #1DA1F2;
+    /* Twitter blue */
+    font-size: 30px;
+}
+
+.fa-facebook {
+    color: #3B5998;
+    /* Facebook blue */
+    font-size: 30px;
+}
+
+.fa-instagram {
+    color: #E1306C;
+    /* Instagram pink */
+    font-size: 30px;
+}
+
+/*---PAGE 2----*/
+body{
+margin: 0px;
+
+}
+
+#navbar{
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: grey;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding-top: 1.1%;
+    padding-bottom: 1%;
+    padding-left:2.8%;
+    font-size: 2.4em;
+    font-weight: bold;
+    color: white;
+    font-family: arial;
+}
+#home{
+    padding-top: .6%;
+    width: 100%;
+    font-size:.5em;
+    text-align: right;
+    font-weight: normal;
+    color: white;
+}
+.container{
+font-family: arial narrow;
+padding-left: 2%;
+}
+.card1{
+
+    display: grid;
+    width: 100%;
+    grid-template-columns: auto auto;
+    grid-column-gap: 20px;
+    }
+.card-body1{
+    width: 100%;
+    font-family: arial narrow;
+}
+.btn{
+    font-weight: bold;
+    color: white;
+    border-radius: 4px;
+    background-color: green;
+    width: 176px;
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+a{
+    text-decoration: none;
+}

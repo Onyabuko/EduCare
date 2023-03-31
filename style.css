@@ -1,0 +1,124 @@
+body{
+		background-color: ;
+		font-family: consolas;
+		padding: 1%;
+	}
+.cont1{
+
+	background-color: purple;
+	border-radius: 5px;
+	height: 6%;
+	width: auto;
+	color: orange;
+	font-family: fantasy;
+padding-top: 2%;
+font-size: 1.0em;
+
+	}
+
+.cont11{
+	padding-left: 5%;
+	
+	background-color: orange;
+	border-radius: 5px;
+	height: 6%;
+	width: auto;
+	color: purple;
+	font-family: fantasy;
+	font-size: .8em;
+	display: grid;
+	grid-template-columns: auto auto auto;
+	width: 100%;
+
+	}
+
+.cont2{
+	background-color: orange;
+	width: 50%;
+	border-radius: 7PX;
+	border-left: 7px solid purple;
+	color: purple;
+	font-family: 
+	}
+	#mm1{
+		margin-top: 0px;
+		color: purple;
+		padding: 1%;
+	}
+
+h3{
+		color: purple;
+	}
+
+h2 {
+		padding-left: 20%;
+		border-right: 2px solid purple;
+	}
+
+
+
+/*----FORM STYLING--------*/
+
+.container{
+	background-color:lightgrey ;
+	font-family: candara;
+	width: 70%;
+	height: auto;
+	margin: auto;
+	border: 2px solid blue;
+	border-radius: 5px;
+	font-size: 1.1em;
+	}
+h1{
+	font-family:arial rounded mt bold ;
+	text-align: center;
+	margin-top: 0px;
+	background-color:blue;
+	height: 40px;
+	width: 100%;
+	color: white;
+	}
+.content{
+	padding-left: 3%;
+
+
+
+	}
+.input{
+	border-radius: 6px;
+	border: 2px solid grey;
+padding-top: .9%;
+padding-bottom: .9%;
+}
+.footer{
+	background-color: grey; 
+	text-align: center; 
+	margin: 0px; 
+	height: 4.4%;
+	width: 100%;
+	border-radius: 5px;
+	padding-top: 1%;
+	padding-bottom: 1%; 
+	font-family:arial rounded mt bold ;
+	color: white;
+	font-weight: bold;
+}
+
+.submit{
+	font-family:arial rounded mt bold ;
+	background-color: blue; 
+	color: white; 
+	border-style: none; 
+	height: 29px; 
+	width: 40%;
+	font-weight: bold; 
+	font-size: 1.2em; 
+	border-radius: 4px; 
+	cursor: pointer;
+	margin-left:26%;
+
+#submit{
+	
+	
+	
+}
